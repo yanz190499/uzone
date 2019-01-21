@@ -10,9 +10,9 @@ function curl($url,$data=null,$bearer=null){
 
 	$h[] = "Content-Type: application/x-www-form-urlencoded; charset=UTF-8";
 
-	$h[] = "User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; vivo 1606 Build/MMB29M)";
+	$h[] = "User-Agent: Dalvik/2.1.0 (Linux; U; Android 6.0.1; vivo 1606 Build/MMB29M)";
 
-	$h[] = "Host: apis.uzone.id";
+	$h[] = "Host: apis1.uzone.id";
 
 	$h[] = "Connection: Keep-Alive";
 
